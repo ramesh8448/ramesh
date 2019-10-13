@@ -1,5 +1,5 @@
 def add(x,y):
- pass
+ x + y
 def substract(x,y):
  pass
 def multiply(x,y):
